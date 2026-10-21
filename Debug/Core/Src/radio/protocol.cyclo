@@ -1,0 +1,10 @@
+../Core/Src/radio/protocol.c:49:17:AirPort_Crc16	4
+../Core/Src/radio/protocol.c:74:13:AirPort_StartReception	3
+../Core/Src/radio/protocol.c:92:6:Protocol_Init	1
+../Core/Src/radio/protocol.c:108:6:HAL_UARTEx_RxEventCallback	5
+../Core/Src/radio/protocol.c:141:17:AirPort_GetPacket	2
+../Core/Src/radio/protocol.c:161:6:Send_HeartBeat	1
+../Core/Src/radio/protocol.c:166:13:AirPort_ProcessPacket	9
+../Core/Src/radio/protocol.c:269:13:AirPort_ParseByte	7
+../Core/Src/radio/protocol.c:310:6:Protocol_Task	3
+../Core/Src/radio/protocol.c:327:6:HAL_UART_ErrorCallback	2
